@@ -1,3 +1,12 @@
+<!-- ===== HERO BANNER (theme-aware) ===== -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
+    <img alt="Muhammad Zeshan — Senior Full-Stack Engineer" src="./dark.svg" width="100%" />
+  </picture>
+</p>
+
 <h1 align="center">Hi, I'm Muhammad Zeshan 👋</h1>
 <h3 align="center">Senior Full-Stack Engineer • React · Next.js · Node.js · TypeScript</h3>
 
