@@ -7,32 +7,34 @@
   </picture>
 </p>
 
-<h1 align="center">Hi, I'm Muhammad Zeshan 👋</h1>
-<h3 align="center">Senior Full-Stack Engineer • React · Next.js · Node.js · TypeScript</h3>
+```console
+$ whoami
+Muhammad Zeshan — Senior Full-Stack Engineer
 
-<p align="center">
-  I build web apps end to end — database, API, and the interface people actually use.<br/>
-  4+ years shipping products for healthcare clinics, SaaS startups, and real-time platforms.
-</p>
+$ cat mission.txt
+I build web apps end to end — database, API, and the interface people
+actually use. 4+ years shipping products for healthcare clinics,
+SaaS startups, and real-time platforms.
+```
 
 <p align="center">
   <a href="https://muhammad-zeshan.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/zeshan-mern-developer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="mailto:zeeshanmehar305@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### `$ cat about.md`
 
 - 🚀 **Senior Full-Stack Engineer** at PieCyfer (2022 – Present)
-- 🏥 I've shipped 8 production projects across healthcare, SaaS, and real-time systems
+- 🏥 Shipped 8 production projects across healthcare, SaaS, and real-time systems
 - 🧩 I work end to end — database, API, real-time sync, and UI
 - ⚡ Recent wins: made a hospital's equipment tracking ~40% faster, added LLM-powered test generation to a QA platform
 - 🌍 Based in Pakistan — open to remote full-time, contract, and consulting work
@@ -40,25 +42,25 @@
 
 ---
 
-### 🧰 Tech Stack
+### `$ ls skills/`
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=339933)
+![NestJS](https://img.shields.io/badge/NestJS-0F172A?style=flat-square&logo=nestjs&logoColor=E0234E)
+![GraphQL](https://img.shields.io/badge/GraphQL-0F172A?style=flat-square&logo=graphql&logoColor=E10098)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Socket.io](https://img.shields.io/badge/Socket.io-0F172A?style=flat-square&logo=socketdotio&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0F172A?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0F172A?style=flat-square&logo=googlecloud&logoColor=4285F4)
 
 ---
 
-### 📌 Featured Projects
+### `$ ls projects/ --featured`
 
 | Project | What it is | Highlight |
 |---|---|---|
@@ -73,25 +75,28 @@
 
 ---
 
-### 📊 GitHub Stats
+### `$ git log --stat`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zeeshan0007&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan0007&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zeeshan0007&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0F172A&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan0007&layout=compact&hide_border=true&theme=tokyonight&bg_color=0F172A&title_color=22D3EE&text_color=94A3B8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan0007&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan0007&hide_border=true&background=0F172A&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=475569" />
 </p>
 
 ---
 
-### 📫 Get in Touch
+```console
+$ ping zeshan --flags "full-time | contract | consulting"
+PONG — email is the fastest way to reach me 🚀
+```
 
-I'm open to full-time roles, contract work, and consulting. Email is the fastest way to reach me.
+<p align="center">
+  <a href="mailto:zeeshanmehar305@gmail.com">zeeshanmehar305@gmail.com</a> ·
+  <a href="https://linkedin.com/in/zeshan-mern-developer">LinkedIn</a> ·
+  <a href="https://muhammad-zeshan.vercel.app">muhammad-zeshan.vercel.app</a>
+</p>
 
-- 📧 **Email:** zeeshanmehar305@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/zeshan-mern-developer](https://linkedin.com/in/zeshan-mern-developer)
-- 🌐 **Portfolio:** [muhammad-zeshan.vercel.app](https://muhammad-zeshan.vercel.app)
-
-<p align="center"><i>Building something ambitious? Let's talk — I ship end to end. 🚀</i></p>
+<p align="center"><code>&gt; code · build · ship ▌</code></p>
