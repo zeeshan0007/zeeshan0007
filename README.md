@@ -75,16 +75,14 @@ SaaS startups, and real-time platforms.
 
 ---
 
-### `$ git log --stat`
-
 <!-- <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zeeshan0007&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0F172A&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8" />
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zeeshan0007&layout=compact&hide_border=true&theme=tokyonight&bg_color=0F172A&title_color=22D3EE&text_color=94A3B8" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=zeeshan0007&hide_border=true&background=0F172A&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=475569" />
-</p>
+</p> -->
 
 ---
 
